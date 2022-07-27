@@ -1,6 +1,14 @@
 # Cross Platforms
 
 ## Table Of Content
+<!-- TOC -->
+
+- [Cross Platforms](#cross-platforms)
+  - [Table Of Content](#table-of-content)
+    - [What Does cross platforms mean?](#what-does-cross-platforms-mean)
+    - [Explains Cross Platform](#explains-cross-platform)
+
+<!-- /TOC -->
 
 ### What Does cross platforms mean?
 
