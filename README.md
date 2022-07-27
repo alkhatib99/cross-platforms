@@ -55,6 +55,7 @@ Regardless of your role in app development, knowing which tools facilitate the p
 Let’s have a look at 5 frameworks that are worth your attention.
 
 - #### React Native: Learn Once, Write Anywhere
+    - !["React photo "](./react.jpeg).
 
 React Native is an open-source mobile app development platform created by Facebook. It is used by such giants as Instagram, Facebook, Walmart, Tesla, Pinterest, UberEats.
 
@@ -65,6 +66,7 @@ The good point is that the process of layout creation works the same way for mob
 Hot Reloading feature allows adding a new code and making edits right at runtime. It’s indeed useful when you customize the user interface. The framework comes with a large set of ready-made components but they don’t always adapt to different platforms. It leads to additional adjustments in the code. An extensive community offers a rich selection of third-party libraries though.
 
 - #### Xamarin: Trusted by Enterprise
+    - !["XAMARIN Photo"](./xarmin.png).
 
 Xamarin is Microsoft’s mobile app development platform. With Xamarin you can create applications for Windows, iOS, and Android using a single .net code. To discover its potential, check out such apps as Olo, The World Bank, Storyo.
 
@@ -77,6 +79,7 @@ Also, Xamarin provides
 - many other handy tools such as debugging, UI design tools, etc.
 
 - #### Ionic
+    - !["Ionic Photo"](./ionic.png)
 
 Ionic allows creating cross-platform hybrid applications for iOS and Android. It works closely with the Apache Cordova framework. It transforms web applications into mobile programs. The framework supports JavaScript, Angular, Vue, and React.
 
@@ -87,6 +90,7 @@ Ionic is built on ECMAScript 6 and TypeScript, which means compatibility with an
 Its weak side though lies in a low speed and performance because instead of native components, it uses web technologies.  On the other hand, it allows quick testing right in a browser.
 
 - #### Flutter
+    - !["Flutter"](./flutter.png)
 
 This open-source framework was created by Google. Flutter is capable of delivering high performance across iOS, Android, Windows, macOS, and the Web using a single codebase.
 
