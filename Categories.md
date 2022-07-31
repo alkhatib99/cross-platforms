@@ -7,65 +7,65 @@
 
 ---
 
-        <details>
-        <summary>1.1 Personal Care</summary>
-        </details>
+<details>
+<summary>1.1 Personal Care</summary>
+</details>
 
-        <details>
-        <summary>1.2 Water</summary>
-        </details>
+<details>
+<summary>1.2 Water</summary>
+</details>
 
-        <details>
-        <summary>1.3 Beverages</summary>
-        </details>
+<details>
+<summary>1.3 Beverages</summary>
+</details>
 
-        <details>
-        <summary>1.4 Dry Foods</summary>
-        </details>
+<details>
+<summary>1.4 Dry Foods</summary>
+</details>
 
-        <details>
-        <summary>1.5 Cheese, Dairy and eggs</summary>
-        </details>
+<details>
+<summary>1.5 Cheese, Dairy and eggs</summary>
+</details>
 
-        <details>
-        <summary>1.6 Canned foods</summary>
-        </details>
+<details>
+<summary>1.6 Canned foods</summary>
+</details>
 
-        <details>
-        <summary>1.7 Breakfast</summary>
-        </details>
+<details>
+<summary>1.7 Breakfast</summary>
+</details>
 
-        <details>
-        <summary>1.8 Kids needs</summary>
-        </details>
+<details>
+<summary>1.8 Kids needs</summary>
+</details>
 
-        <details>
-        <summary>1.9 Entertainment</summary>
-        </details>
+<details>
+<summary>1.9 Entertainment</summary>
+</details>
 
-        <details>
-        <summary>1.10 Vegetables</summary>
-        </details>
+<details>
+<summary>1.10 Vegetables</summary>
+</details>
 
-        <details>
-        <summary>1.11 Frozen foods</summary>
-        </details>
+<details>
+<summary>1.11 Frozen foods</summary>
+</details>
 
-        <details>
-        <summary>1.12 Eggs</summary>
-        </details>
+<details>
+<summary>1.12 Eggs</summary>
+</details>
 
-        <details>
-        <summary>1.13 kitchen tools</summary>
-        </details>
+<details>
+<summary>1.13 kitchen tools</summary>
+</details>
 
-        <details>
-        <summary>1.14 Hydrogenated oils</summary>
-        </details>
+<details>
+<summary>1.14 Hydrogenated oils</summary>
+</details>
 
-        <details>
-        <summary>1.15 Snacks</summary>
-        </details>
+<details>
+<summary>1.15 Snacks</summary>
+</details>
 
 --- 
 
